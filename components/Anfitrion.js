@@ -3,7 +3,7 @@ import styled from 'styled-components'
 const Anfitrion = () => {
   return (
     <Container>
-      <h1>Conviértete en <br />anfritrión</h1>
+      <h1>Conviértete en <br/>anfritrión</h1>
       <p>Gana dinero extra y descubre nuevas <br />oportunidades al compartir tu espacio</p>
       <button>Más información</button>
     </Container>
