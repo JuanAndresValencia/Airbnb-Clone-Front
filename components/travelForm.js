@@ -3,6 +3,8 @@ import { useState } from 'react'
 import LlegadaTravel from '../components/llegadaTravel'
 import SalidaTravel from '../components/salidaTravel'
 import HuespedesTravel from '../components/huespedesTravel'
+import { DateRange } from 'react-date-range'
+
 
 const travelForm = () => {
 

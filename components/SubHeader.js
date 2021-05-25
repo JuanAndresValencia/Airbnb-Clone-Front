@@ -2,6 +2,8 @@ import styled from 'styled-components'
 import AirbnbOptions from '../components/airbnbOptions'
 import TravelForm from '../components/travelForm'
 import MainTextHeader from '../components/mainTextHeader'
+import { DateRange } from 'react-date-range'
+
 
 const SubHeader = () => {
   return (
